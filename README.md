@@ -75,7 +75,5 @@ Instead of manually creating a truth table, we use code to:
 
 ---
 
-## ▶️ Run the Code
 
-Run the Python file to see results for all cases.
  
